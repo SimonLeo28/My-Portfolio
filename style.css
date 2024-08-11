@@ -208,3 +208,8 @@ button:hover {
     height:20%;
     border-radius: 20%;
 }
+
+header h1 {
+    color: white;
+    padding: 3px;
+}
